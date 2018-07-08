@@ -1,9 +1,9 @@
 # 100-Days-Of-ML-Code
 
-## Day 1: July 8, 2018 (Example 1)
+## Day 1: July 8, 2018 (Face Recognition App)
 
-**Today's Progress:** Starting to commit myself towards learning machine learning
+**Today's Progress:** Implement an app that could be used by students and by somebodyelse like this Face Recognition App
 
-**Thoughts:** I wasn't able to learn intensely to the point where I could contribute and help somebodyelse
+**Thoughts:** This is my first time to share in a repo what I've been learning. It feels good and exciting, I will do more of this everyday for sure!
 
 **Link to work:** [Face Recognition App](http://www.github.com)
