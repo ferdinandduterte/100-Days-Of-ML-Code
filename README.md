@@ -6,4 +6,4 @@
 
 **Thoughts:** This is my first time to share in a repo what I've been learning. It feels good and exciting, I will do more of this everyday for sure!
 
-**Link to work:** [Face Recognition App](http://www.github.com)
+**Link to work:** [Face Recognition App](https://github.com/ferdinandduterte/Face-Recognition-App)
