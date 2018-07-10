@@ -16,3 +16,10 @@
 
 **Link to work:** [Face Swap App](https://github.com/ferdinandduterte/Face-Swap-App)
 
+## Day 3: July 10, 2018 (Pose Estimation App)
+
+**Today's Progress:** Implement an app in the web browser that could be used for curiosity and trying tensorflow.js
+
+**Thoughts:** This is simpler yet I challenge myself to code it from scratch to exercise my understanding of this app. 
+
+**Link to work:** [Pose-Estimation-App](https://github.com/ferdinandduterte/Pose-Estimation-App)
