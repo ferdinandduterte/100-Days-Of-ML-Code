@@ -10,7 +10,7 @@
 
 ## Day 2: July 9, 2018 (Face Swap App)
 
-**Today's Progress:** Implement an app that could be used for fun lie face swapping
+**Today's Progress:** Implement an app that could be used for fun like face swapping
 
 **Thoughts:** Pushing daily content on github is really hard, but I could intuitively feel the positive impact and drive this offer. 
 
