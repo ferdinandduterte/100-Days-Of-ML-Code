@@ -23,3 +23,11 @@
 **Thoughts:** This is simpler yet I challenge myself to code it from scratch to exercise my understanding of this app. 
 
 **Link to work:** [Pose-Estimation-App](https://github.com/ferdinandduterte/Pose-Estimation-App)
+
+## Day 4-6: July 11-13, 2018 (TFlite Image Classifier)
+
+**Today's Progress:** Implement a mobile app capable of image classification
+
+**Thoughts:** This took me 3 days to finish because of many installation issues, but I'm still grateful for the patience developed by such experience. Looking forward to my future self being able to handle this cases much wiser and faster. Also, I need to learn more about Java mobile development since mobile ML will be such a big thing. Also as of the moment, I've realized that wow I was able to apply machine learning in desktop, web browser, virtual machine, and mobile. What a simple yet pretty achievement just by following this 100 day ml challenge. Thank you, I'll do better next time for sure.
+
+**Link to work:** [TFlite-Image-Classifier](https://github.com/ferdinandduterte/Tflite-Image-Classifier)
